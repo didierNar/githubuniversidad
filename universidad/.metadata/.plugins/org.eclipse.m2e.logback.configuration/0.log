@@ -1,0 +1,44 @@
+2016-09-17 12:52:54,057 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.eam.ingesoftdesarrrollo:universidad-gui:0.0.1-SNAPSHOT @ C:\Users\didie\Dropbox\Cuarto Semestre\Desarrollo de Software\Segundo corte\UniversidadJPA\universidad\universidad-gui\pom.xml.
+2016-09-17 12:52:54,440 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.eam.ingesoftdesarrrollo:universidad-persistencia:0.0.1-SNAPSHOT @ C:\Users\didie\Dropbox\Cuarto Semestre\Desarrollo de Software\Segundo corte\UniversidadJPA\universidad\universidad-persistencia\pom.xml.
+2016-09-17 12:52:54,645 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.eam.ingesoftdesarrrollo:universidad-logica:0.0.1-SNAPSHOT @ C:\Users\didie\Dropbox\Cuarto Semestre\Desarrollo de Software\Segundo corte\UniversidadJPA\universidad\universidad-logica\pom.xml.
+2016-09-17 12:52:56,857 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-persistencia/src/main/java
+2016-09-17 12:52:56,857 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-persistencia/src/main/resources
+2016-09-17 12:52:56,860 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-persistencia/src/test/java
+2016-09-17 12:52:56,861 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-persistencia/src/test/resources
+2016-09-17 12:52:57,030 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-logica/src/main/java
+2016-09-17 12:52:57,030 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-logica/src/main/resources
+2016-09-17 12:52:57,031 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-logica/src/test/java
+2016-09-17 12:52:57,031 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-logica/src/test/resources
+2016-09-17 12:52:57,271 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-gui/src/main/java
+2016-09-17 12:52:57,272 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-gui/src/main/resources
+2016-09-17 12:52:57,273 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /universidad-gui/src/test/java
+2016-09-17 12:52:57,274 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /universidad-gui/src/test/resources
+2016-09-17 12:52:57,425 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 18 sec
+2016-09-17 12:53:04,316 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:04,334 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 12:53:04,355 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:04,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 12:53:05,399 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:05,440 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 12:53:05,480 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:05,494 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 12:53:08,144 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:08,169 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2016-09-17 12:53:08,336 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 12:53:08,344 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 13:02:51,611 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 13:02:51,634 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 13:02:51,652 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 13:02:51,688 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 16:09:38,616 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 16:09:38,634 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 16:09:38,635 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 16:09:38,659 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 17:37:19,012 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 17:37:19,030 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 17:37:19,039 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 17:37:19,048 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 17:37:19,484 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 17:37:19,491 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 17:37:19,493 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 17:37:19,498 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

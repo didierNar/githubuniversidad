@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1474134759308_0" label="universidad" name="universidad">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/universidad-gui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/universidad-persistencia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/universidad-logica" type="4"/>
+</workingSet>
+</workingSetManager>
